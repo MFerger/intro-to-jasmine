@@ -1,4 +1,4 @@
-var miles = require('../lib/miles.js')
+var miles = require('../lib/miles.js');
 
 describe('Miles', function() {
   it('determines if a car has enough gas', function (){
